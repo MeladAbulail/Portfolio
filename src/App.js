@@ -1,12 +1,16 @@
 
-import "./App.css";
+import Footer from './Components/Footer/Footer'
+import Navbar from './Components/Navbar/Navbar'
 
 function App() {
   return (
-    <div>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      <p>meladdddddddddddddd</p>
-    </div>
+    <>
+      <div className="flex flex-col h-100 w-100 bg-[#ede8f5]">
+        <Navbar />
+        melad melad melad melad melad melad melad
+        <Footer />
+      </div>
+    </>
   );
 }
 
