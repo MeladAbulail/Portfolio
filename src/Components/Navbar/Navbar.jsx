@@ -9,7 +9,7 @@ function Navbar() {
   }
 
   return (
-    <div className="w-100 bg-[#7091e6] text-white min-h-32">
+    <div className="w-100 bg-[#7091e6] text-white min-h-12">
       <div className='flex justify-between'>
         <div className='m-6'>
           <span className='text-[#EDE8F5] text-4xl '>
