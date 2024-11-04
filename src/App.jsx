@@ -45,7 +45,7 @@ const App = () => {
               <a className="text-white p-4">Melad Abulail</a>
             </div>
             <div className="flex space-x-4">
-              <a className="text-white cursor-none" href="#about">About</a>
+              <a className="text-white cursor-none" href="#about">Melad</a>
               <a className="text-white cursor-none" href="#projects">Projects</a>
               <a className="text-white cursor-none" href="#contact">Contact</a>
             </div>

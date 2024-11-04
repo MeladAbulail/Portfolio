@@ -11,13 +11,12 @@ function Navbar() {
               alt="Melad Abulail"
               className="h-10 w-10 pointer-events-none  "
             />
-            <a className="text-white p-4">Melad Abulail</a>2
+            <a className="text-white p-4">Melad Abulail</a>
           </div>
           <div className="flex space-x-4">
             <a className="text-white cursor-none">About</a>
             <a className="text-white cursor-none">Projects</a>
             <a className="text-white cursor-none">Contact</a>
-            <a className="text-white cursor-none">Melad</a>
           </div>
         </div>
       </div>
