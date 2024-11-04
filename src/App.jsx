@@ -38,7 +38,7 @@ const App = () => {
           <div className="flex justify-between items-center p-4">
             <div className="flex items-center">
               <img
-                src="../public/Logo.webp"
+                src="/Logo.webp"
                 alt="Melad Abulail"
                 className="h-10 w-10"
               />
