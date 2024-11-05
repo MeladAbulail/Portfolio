@@ -5,13 +5,13 @@ module.exports = {
     extend: {},
     backgroundColor: {
       primary: "#FFF",
-      secoundary: "#000",
+      secondary: "#000",
       purple: "#AD49E1",
       darkPurple: "#7A1CAC",
     },
     colors: {
       primary: "#FFF",
-      Secoundary: "#000",
+      secondary: "#000",
       purple: "#AD49E1",
       darkPurple: "#7A1CAC",
     },
