@@ -1,1 +1,16 @@
-@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #212121;
+  --color-secondary: #efefef;
+  --font-ibm: 'IBM Plex Mono', monospace;
+}
+
+body {
+  font-family: var(--font-ibm);
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+  margin: 0;
+  padding: 0;
+}
