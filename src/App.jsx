@@ -7,10 +7,7 @@ function App() {
     <>
       <div className='flex flex-col '>
         <Navbar />
-        <div className=''>
-          <h1 className='text-secondary text-4xl'>Melad Abulail</h1>
-          <h1 className=' text-secondary text-4xl'>Melad Abulail</h1>
-        </div>
+
 
         <Footer />
       </div>

@@ -4,9 +4,10 @@ import { buttonThemes } from './buttonThemes';
 function Button({ theme = 'default', text }) {
   const buttonTheme = buttonThemes[theme];
   const buttonClasses = Object.entries(buttonTheme)
-    .map(([key, value]) => value)
-    .join(' ');
-
+  .map(([key, value]) => value)
+  .join(' ');
+  
+  console.log("🚀 ~ Button ~ buttonClasses:", buttonClasses)
   return (
     <button
       className={`cursor-pointer ${buttonClasses}`}
