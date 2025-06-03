@@ -1,5 +1,5 @@
 import React from 'react';
-import { buttonThemes } from './buttonThemes';
+import { buttonThemes } from './ButtonThemes';
 
 function Button({ theme = 'default', text }) {
   const buttonTheme = buttonThemes[theme];
